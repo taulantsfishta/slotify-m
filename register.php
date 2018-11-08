@@ -52,8 +52,8 @@
          <input id='password2' type="password" name="password" value="" placeholder="Confirm Password" required>
         </p>
         <p>
-          <label for='tel'>Telefone</label>
-          <input type='number' id='tel' name='telefone' placeholder="Your phonenumber"/>
+          <label for='tel'>Telephone</label>
+          <input type='number' id='tel' name='telefone' placeholder="Your telephone"/>
         </p>
         <button type="submit" name="loginButton">Log In</button>
       </form>
